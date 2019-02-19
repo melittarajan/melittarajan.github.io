@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Your Site Title</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Your Site Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Your config copyright line</copyright>
+    <lastBuildDate>Mon, 03 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Auditing and a snake</title>
+      <link>/auditing-and-a-snake/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/auditing-and-a-snake/</guid>
+      <description>It was a snake!”
+“What!? Here!? In the city!? A snake!?”
+“Yes, she saw it. Said it was a ‘vellikettan’ – a small snake with white stripes across.”
+“Vellikettan!! That is a very poisonous snake!”
+“She said so too. I don’t know much about snakes or their habitats but she said its because the forest is depleting that the snakes are coming to the cities in search of food.”</description>
+    </item>
+    
+    <item>
+      <title>Monkey and Me</title>
+      <link>/monkey-and-me/</link>
+      <pubDate>Sun, 02 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/monkey-and-me/</guid>
+      <description>Dear diary,
+My hands are still shaking as I’m writing this. The most funniest thing happened today. Funny, scary… all combined together. Don’t know if there’s any single word to describe this feeling. Whatever it is, this is one day I am never going to forget.
+You know that I am an animal lover; I have never been scared of animals. So today at college when we spotted a small monkey on one of the trees in the park, it wasn’t a big thing.</description>
+    </item>
+    
+    <item>
+      <title>The Stranger Angel</title>
+      <link>/the-stranger-angel/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/the-stranger-angel/</guid>
+      <description>Do angels come in disguises?
+I do not know the answer to that. But what I do know is that the man on the road that day, that stranger, was the angel who saved my life.
+It was a normal Friday afternoon, extremely sunny and hot. The air cooling inside the van was working very hard at keeping the heat outside and it did a good job.
+I was busy chatting away with Sarah, who was schoolmate and Sunday school mate.</description>
+    </item>
+    
+  </channel>
+</rss>
